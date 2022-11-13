@@ -8,4 +8,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 
-https://github.com/5009web/qrcodeproject/blob/main/images/qr-code-project-screenshot.PNG
+![](./images/qr-code-project-screenshot.PNG)
